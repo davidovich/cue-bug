@@ -1,0 +1,4 @@
+parameters:
+  aField: true
+  bField: "value"
+  notAllowed: true
